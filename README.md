@@ -1,2 +1,2 @@
-# bingham-why
+# bingham
 for all the suffering
